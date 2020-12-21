@@ -8,4 +8,4 @@ CSS
 JavaScript
 # ScreenShot
 
-![This is a screenshot of my app.](Random-dice/images/samplePic.png)
+![This is a screenshot of my app.](http://url/to/Random-dice/images/samplePic.png)
