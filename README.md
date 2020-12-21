@@ -9,3 +9,6 @@ JavaScript
 # ScreenShot
 
 ![This is a screenshot of my app.](images/samplePic.png)
+
+# Live link
+https://goantoniouw.github.io/Random-dice/
