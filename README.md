@@ -6,3 +6,6 @@ To play again all the user must do is refresh the page and the dice will be roll
 HTML
 CSS
 JavaScript
+# ScreenShot
+
+![This is a screenshot of my app.](Random-dice/images/samplePic.png)
